@@ -863,6 +863,58 @@ section,
   }
 }
 
+.hero .floating-card.card-5 {
+    top: 30%;
+    left: 0%;
+  animation-delay: 4s;
+}
+
+@media (max-width: 768px) {
+  .hero .floating-card.card-5 {
+    bottom: 20%;
+    right: -5%;
+  }
+}
+
+.hero .floating-card.card-6 {
+    bottom: 53%;
+    right: -5%;
+  animation-delay: 4s;
+}
+
+@media (max-width: 768px) {
+  .hero .floating-card.card-6 {
+    bottom: 20%;
+    right: -5%;
+  }
+}
+
+.hero .floating-card.card-7 {
+    bottom: 53%;
+    right: -5%;
+  animation-delay: 4s;
+}
+
+@media (max-width: 768px) {
+  .hero .floating-card.card-7 {
+    bottom: 30%;
+    right: -5%;
+  }
+}
+
+.hero .floating-card.card-8 {
+    bottom: 73%;
+    right: -5%;
+  animation-delay: 4s;
+}
+
+@media (max-width: 768px) {
+  .hero .floating-card.card-8 {
+    bottom: 30%;
+    right: -5%;
+  }
+}
+
 @keyframes float {
 
   0%,
