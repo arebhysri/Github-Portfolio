@@ -825,8 +825,8 @@ section,
 }
 
 .hero .floating-card.card-2 {
-  top: 60%;
-  right: 10%;
+  top: 47%;
+  left: -10%;
   animation-delay: 2s;
 }
 
@@ -877,8 +877,8 @@ section,
 }
 
 .hero .floating-card.card-6 {
-  bottom: 43%;
-  left: -13%;
+  top: 0%;
+  right: 42%;
   animation-delay: 4s;
 }
 
@@ -903,7 +903,7 @@ section,
 }
 
 .hero .floating-card.card-8 {
-    bottom: 73%;
+    bottom: 3%;
     right: -5%;
   animation-delay: 4s;
 }
