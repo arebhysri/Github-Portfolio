@@ -865,7 +865,7 @@ section,
 
 .hero .floating-card.card-5 {
   bottom: 0%;
-  right: 10%;
+  right: 35%;
   animation-delay: 4s;
 }
 
@@ -890,7 +890,7 @@ section,
 }
 
 .hero .floating-card.card-7 {
-    bottom: 53%;
+    bottom: 40%;
     right: -5%;
   animation-delay: 4s;
 }
