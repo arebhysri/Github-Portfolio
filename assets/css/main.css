@@ -851,15 +851,15 @@ section,
 }
 
 .hero .floating-card.card-4 {
-  bottom: 45%;
-  left: -5%;
+    bottom: 73%;
+    right: -5%;
   animation-delay: 4s;
 }
 
 @media (max-width: 768px) {
-  .hero .floating-card.card-3\4 {
+  .hero .floating-card.card-4 {
     bottom: 30%;
-    left: 10%;
+    right: -5%;
   }
 }
 
