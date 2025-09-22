@@ -850,6 +850,19 @@ section,
   }
 }
 
+.hero .floating-card.card-4 {
+  bottom: 45%;
+  left: -5%;
+  animation-delay: 4s;
+}
+
+@media (max-width: 768px) {
+  .hero .floating-card.card-3\4 {
+    bottom: 30%;
+    left: 10%;
+  }
+}
+
 @keyframes float {
 
   0%,
