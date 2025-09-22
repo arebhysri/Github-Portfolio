@@ -864,21 +864,21 @@ section,
 }
 
 .hero .floating-card.card-5 {
-    top: 30%;
-    left: 0%;
+  bottom: 30%;
+  right: 10%;
   animation-delay: 4s;
 }
 
 @media (max-width: 768px) {
   .hero .floating-card.card-5 {
-    bottom: 20%;
+    bottom: 10%;
     right: -5%;
   }
 }
 
 .hero .floating-card.card-6 {
-    bottom: 53%;
-    right: -5%;
+  bottom: 53%;
+  right: -5%;
   animation-delay: 4s;
 }
 
