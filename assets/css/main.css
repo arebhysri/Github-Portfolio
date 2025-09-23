@@ -891,14 +891,14 @@ section,
 
 .hero .floating-card.card-7 {
     bottom: 40%;
-    right: -5%;
+    left: -5%;
   animation-delay: 4s;
 }
 
 @media (max-width: 768px) {
   .hero .floating-card.card-7 {
     bottom: 53%;
-    right: -21%;
+    left: 65%;
   }
 }
 
