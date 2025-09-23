@@ -825,8 +825,8 @@ section,
 }
 
 .hero .floating-card.card-2 {
-  top: 47%;
-  left: -10%;
+  top: -2%;
+  left: 35%;
   animation-delay: 2s;
 }
 
