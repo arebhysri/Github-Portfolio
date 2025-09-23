@@ -833,7 +833,7 @@ section,
 @media (max-width: 768px) {
   .hero .floating-card.card-2 {
     top: 70%;
-    right: -10%;
+    left: -10%;
   }
 }
 
@@ -858,8 +858,8 @@ section,
 
 @media (max-width: 768px) {
   .hero .floating-card.card-4 {
-    bottom: 30%;
-    right: -5%;
+    bottom: 74%;
+    right: -2%;
   }
 }
 
@@ -871,20 +871,20 @@ section,
 
 @media (max-width: 768px) {
   .hero .floating-card.card-5 {
-    bottom: 10%;
-    right: -5%;
+    bottom: 53%;
+    right: 76%;
   }
 }
 
 .hero .floating-card.card-6 {
-  top: 0%;
+  bottom: 0%;
   right: 42%;
   animation-delay: 4s;
 }
 
 @media (max-width: 768px) {
   .hero .floating-card.card-6 {
-    bottom: 20%;
+    bottom: -3%;
     right: -5%;
   }
 }
@@ -897,8 +897,8 @@ section,
 
 @media (max-width: 768px) {
   .hero .floating-card.card-7 {
-    bottom: 30%;
-    right: -5%;
+    bottom: 53%;
+    right: -21%;
   }
 }
 
@@ -910,8 +910,8 @@ section,
 
 @media (max-width: 768px) {
   .hero .floating-card.card-8 {
-    bottom: 30%;
-    right: -5%;
+    bottom: 32%;
+    right: 71%;
   }
 }
 
